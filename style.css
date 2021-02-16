@@ -1,0 +1,47 @@
+body {
+    background-color: darksalmon;
+}
+
+#linea {
+    color: aqua;
+}
+
+
+.header {
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+    
+
+}
+.imagen1 {
+    color: blue;
+   font-weight: bold;
+   text-align: right;
+   
+   
+    
+}
+
+.imagen2 {
+    background-color: white;
+    color: blue;
+    
+    
+}
+
+
+.imagen3 {
+
+    color: blue;
+}
+
+.footer {
+    background-color: yellow;
+    text-align: center;
+
+}
+
+#resaltar {
+    color: red;
+}
